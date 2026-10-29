@@ -1,5 +1,8 @@
 # PeopleOps — Django HR system
 
+<img width="1845" height="927" alt="image" src="https://github.com/user-attachments/assets/6c4647c9-3552-43a5-a318-f08123ae3247" />
+
+
 A runnable Django web application with employee, manager, and HR administrator portals. Python 3.10+; Django 5.2.18; SQLite for local evaluation and PostgreSQL for production.
 
 ## Quick start
